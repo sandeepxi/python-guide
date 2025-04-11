@@ -410,3 +410,4 @@ way to write it and the "Idiomatic" way.
 	`For Python 2.7.3+ <https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5KG0F8/>`_
 
 	`For Python 3.3+  <https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG/>`_
+ Real Python Tutorials - https://realpython.com/
